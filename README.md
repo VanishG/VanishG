@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @VanishG (Adam)
+- 👋 Hi, I’m @VanishG
 - 👀 I’m interested in coding, python for now
 - 🌱 I’m currently studying at Uni in Belgium
